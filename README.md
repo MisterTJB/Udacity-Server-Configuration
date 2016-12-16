@@ -1,5 +1,5 @@
 # Udacity-Server-Configuration
-You will take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
+Details the configuration of an Amazon EC2 instance to serve a Flask application, with an emphasis on basic security considerations.
 
 ## Connection Parameters
 
